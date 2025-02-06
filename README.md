@@ -1,7 +1,7 @@
 # 🧮 CalcQuest 🎯
 
 Welcome to the **Calculator-App **! 🎉  
-A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS**, and 🛠️ **JavaScript**. Play against the computer, sharpen your decision-making skills, and enjoy smooth animations as well. Ready to dominate the game? Let’s go! 🚀  
+A simple yet interactive calculator app built with **HTML**, **CSS**, and **JavaScript**. Perform quick calculations with a sleek and user-friendly interface. Ready to crunch some numbers? Let’s go! 🚀  
 
 ---
 
