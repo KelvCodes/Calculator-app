@@ -17,6 +17,7 @@ body{
     align-items: center;
 }
 
+/* Display area for calculator output */
 .display{
     height: 120px;
     width: calc(90px * 4);
