@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+
+/* Style for the body - Full height, dark background, and centered content */
 body{
     height: 100vh;
     background: #111;
