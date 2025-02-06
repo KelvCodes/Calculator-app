@@ -9,7 +9,8 @@ A simple yet interactive calculator app built with **HTML**, **CSS**, and **Java
 - **➕ Basic Operations**: Perform addition, subtraction, multiplication, and division.  
 -  **🎮 Interactive UI**: A clean, modern, and engaging interface.. 
 - **🔢 Real-Time Calculation**: Get instant results as you type.  
--**🧮 Clear Display**: Shows both input and output in an organized manner.    
+- **🧮 Clear Display**: Shows both input and output in an organized manner.
+      
 
 ---
 
