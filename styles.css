@@ -28,6 +28,7 @@ body{
     position: relative;
 }
 
+/* Styling for the operation history text above input */
 #operation{
     position: absolute;
     right: 1rem;
