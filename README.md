@@ -1,5 +1,3 @@
-
-
 # 🎮 NumQuest 🎯
 
 Welcome to the **NumQuest**! 🎉  
