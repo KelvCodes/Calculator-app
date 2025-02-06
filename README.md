@@ -28,7 +28,7 @@ A simple yet interactive calculator app built with **HTML**, **CSS**, and **Java
 1. **Enter Numbers**: Click on the number buttons to input values.
 2. **Perform Operations**: Use the `+`, `-`, `×`, and `÷` buttons for calculations.
 3. **View Results**: The result is displayed instantly 
-4. **Guess Right And Win** Once you guess correctly, you win! 🏆 If you run out of attempts, the game ends, and you’ll have the option to try again. 🔄  
+4. **Clear and Reset**: Use the `C` button to reset the calculator.  
 
 ---
 
