@@ -8,7 +8,7 @@
 
 /* Style for the body - Full height, dark background, and centered content */
 body{
-    height: 100vh;
+    height: 100vh;/* Full viewport height */
     background: #111;
     color: white;
 
