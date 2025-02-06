@@ -10,6 +10,7 @@ A simple yet interactive calculator app built with **HTML**, **CSS**, and **Java
 -  **🎮 Interactive UI**: A clean, modern, and engaging interface.. 
 - **🔢 Real-Time Calculation**: Get instant results as you type.  
 - **🧮 Clear Display**: Shows both input and output in an organized manner.
+-  **🖱 Easy Reset**: Clear your input with a single button. 
       
 
 ---
