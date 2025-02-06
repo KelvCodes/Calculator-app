@@ -1,3 +1,4 @@
+/* Reset default margin, padding, and ensure box-sizing is border-box 
 *{
     margin: 0;
     padding: 0;
