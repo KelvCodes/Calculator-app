@@ -24,7 +24,7 @@ A simple yet interactive calculator app built with **HTML**, **CSS**, and **Java
 
 ---
 
-## 🚀 How to Play  
+## 🚀 How to Use 
 1. **Generating Number Within System**: When the game starts, the system will generate a random number within the predefined range. 🎰.  
 2. **Time To Guess**:  You will be prompted to enter your guess. 💭
 3. **Feedback Based On NUmber Guessed**: Check the score to see if you’re leading or need a comeback.  
