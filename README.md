@@ -8,7 +8,7 @@ A simple yet interactive calculator app built with **HTML**, **CSS**, and **Java
 ## 🌟 Features  
 - **➕ Basic Operations**: Perform addition, subtraction, multiplication, and division.  
 -  **🎮 Interactive UI**: A clean, modern, and engaging interface.. 
-- **🖥 User-Friendly Interface**: Simple and clean interface for an enjoyable gaming experience.  
+- **🔢 Real-Time Calculation**: Get instant results as you type.  
 - **🔍 Feedback Mechanism**: After each guess, the game will indicate whether the guessed number is too high or too low.  
 -  **⏳ Attempt Limit**: Keep track of how many attempts you have left, adding a sense of urgency to the challenge.
 
