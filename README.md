@@ -1,4 +1,4 @@
-# 🧮 Calculator 🎯
+# 🧮 Calculator App🎯
 
 Welcome to the **Calculator-App **! 🎉  
 A simple yet interactive calculator app built with **HTML**, **CSS**, and **JavaScript**. Perform quick calculations with a sleek and user-friendly interface. Ready to crunch some numbers? Let’s go! 🚀  
