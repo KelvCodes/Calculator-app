@@ -46,7 +46,7 @@ A simple yet interactive calculator app built with **HTML**, **CSS**, and **Java
 
 ## 🤝 Contributing  
 
-Want to add new features or improve this Calcul app? We’d love your help! 💡  
+Want to add new features or improve this Calcula app? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
