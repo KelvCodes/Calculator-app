@@ -36,7 +36,7 @@ A simple yet interactive calculator app built with **HTML**, **CSS**, and **Java
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/calculato.git 
+   git clone https://github.com/yourusername/calculator.git 
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
